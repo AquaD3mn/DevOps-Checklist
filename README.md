@@ -21,6 +21,7 @@ Run the script with the log directory as an argument:
 - Bash
 - `tar` command
 - Sudo privileges for reading system logs
+- https://roadmap.sh/projects/log-archive-tool
 
 ## License:
 MIT
