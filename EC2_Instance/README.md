@@ -101,3 +101,5 @@ To avoid unnecessary charges:
 
 1. Stop or terminate the EC2 instance when you’re done.
 2. Delete any associated resources, such as the security group and key pair, if not needed.
+
+https://roadmap.sh/projects/ec2-instance
