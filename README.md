@@ -80,5 +80,6 @@ This repository is licensed under the [MIT License](LICENSE). You are free to us
 
 ---
 https://roadmap.sh/projects/ec2-instance
+https://roadmap.sh/projects/ssh-remote-server-setup
 
 Happy learning and building DevOps solutions!
